@@ -56,6 +56,10 @@ export const About = () => {
               
             </div>
         </div>
+        {/* comment */}
+                {/* comment */}
+                {/* comment */}
+                {/* comment */}
     </div>
   )
 }
