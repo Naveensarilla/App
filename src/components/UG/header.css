@@ -1,0 +1,90 @@
+
+*{
+    text-decoration: none;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3vmax;
+    align-items: center;
+    height: 4vmax;
+    background: rgb(203, 227, 229);
+    width: 90vmax;
+    margin: 0 auto;
+    border-radius: 0 40px 0 40px;
+    top: 1rem;
+    position: sticky;
+    z-index: 10;
+}
+
+header .navlogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10vmax;
+    /* // background:#ffffff; */
+    /* // border-radius: 50%; */
+    /* // border: 0.1rem solid $main; */
+    padding: 0.1vmax 0;
+}
+
+header .navlogo img {
+    width: 100%;
+    animation: navlogo 1s infinite alternate;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 35vmax;
+}
+
+header nav ul a {
+    font: 400 1vmax;
+    color: #3f383f;
+}
+
+header nav ul a :hover {
+    text-shadow: PX 0PX 0PX rgba(#000000);
+}
+
+header nav .login-btn {
+    position: absolute;
+    right: 3rem;
+}
+
+header  .login-btn button {
+    width: 16vmax;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 2vmax;
+    border-radius: 18px;
+    animation: login-btn 1s infinite alternate;
+    background-color: #1b1b1b;
+    border: none;
+}
+
+
+header  .login-btn button a {
+font-size: 1vmax;
+    color: #fff;
+}
+
+
+
+@keyframes login-btn {
+    to {
+        transform: scale(1.1);
+    }
+
+
+}
+
+@keyframes navlogo {
+    to {
+        transform: scale(1.1);
+    }
+
+
+}
