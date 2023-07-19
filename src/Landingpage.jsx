@@ -3,7 +3,7 @@ import {Link} from "react-router-dom"
 import './App.css';
 import logo from './logo2.jpeg';
 import logoo from './logo image.jpg'
-import  Footer  from './components/UG/Footer';
+// import  Footer  from './components/UG/Footer';
 // import { Link } from 'react-router-dom';
 function Landingpage() {
   return (

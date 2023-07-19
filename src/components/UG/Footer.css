@@ -4,7 +4,7 @@
     color: white;
     /* background: e7fcff; */
     /* background: #000000; */
-    background: #000000;
+     background: #000000;
 }
 .footer-container{
     padding: 4rem 10rem 0rem 10rem;
@@ -22,9 +22,7 @@ footer.footer {
 .footerContant {
     width: 30%;
 }
-.footer{
-    /* background: black; */
-}
+
 
 .footerTitleColor{
     font-family: 'Righteous', cursive;
