@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fe5da4c.css",
+    "main.js": "/static/js/main.44ab952f.js",
+    "static/media/onlineEd.jpg": "/static/media/onlineEd.64f80ebb837e38910c65.jpg",
+    "static/media/AP-EAPCET-.png": "/static/media/AP-EAPCET-.6e7d7a1f804eef81f724.png",
+    "static/media/logo2.jpeg": "/static/media/logo2.a796a492657c2a9bc1a0.jpeg",
+    "static/media/AP-EAPCET-banner.png": "/static/media/AP-EAPCET-banner.586dd28a6a7957fee291.png",
+    "static/media/ALLCOURSES.png": "/static/media/ALLCOURSES.46ecd4bc43716d49f4f9.png",
+    "static/media/img10.png": "/static/media/img10.8b9f535d56bb104b4f12.png",
+    "static/media/onlineCourses.png": "/static/media/onlineCourses.8b9f535d56bb104b4f12.png",
+    "static/media/img8.png": "/static/media/img8.90e56cd6fa824ab7b033.png",
+    "static/media/test.png": "/static/media/test.90e56cd6fa824ab7b033.png",
+    "static/media/exam.png": "/static/media/exam.c05584ad65c8fc374329.png",
+    "static/media/img11.png": "/static/media/img11.c05584ad65c8fc374329.png",
+    "static/media/img6.png": "/static/media/img6.0a89a52978697c7a3002.png",
+    "static/media/img7.png": "/static/media/img7.8638cec82a93bb30c568.png",
+    "static/media/live.png": "/static/media/live.8638cec82a93bb30c568.png",
+    "static/media/img4.png": "/static/media/img4.edc362424a108f6ccbc8.png",
+    "static/media/education.png": "/static/media/education.37c34d03ffcddb0b4bff.png",
+    "static/media/img9.png": "/static/media/img9.37c34d03ffcddb0b4bff.png",
+    "static/media/aboutLogo.png": "/static/media/aboutLogo.b981a4cbfb0672db2d8e.png",
+    "static/media/about.png": "/static/media/about.e16e237c619bad5fa3d2.png",
+    "static/media/img1.png": "/static/media/img1.e16e237c619bad5fa3d2.png",
+    "static/media/mission.png": "/static/media/mission.b52a92f466402a7cf199.png",
+    "static/media/img3.png": "/static/media/img3.159afc76042a3bfb3da0.png",
+    "static/media/online.png": "/static/media/online.159afc76042a3bfb3da0.png",
+    "static/media/win.png": "/static/media/win.aa7380dd552dac5646da.png",
+    "static/media/img5.png": "/static/media/img5.ec4d91d5043d1a376b1b.png",
+    "static/media/ourvision.png": "/static/media/ourvision.bbd47c5228496b56bb91.png",
+    "static/media/img2.png": "/static/media/img2.bef07ec01a4e3d214c79.png",
+    "static/media/browser-removebg-preview.png": "/static/media/browser-removebg-preview.15bc2498a41e2b07c4e8.png",
+    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/index.html",
+    "main.4fe5da4c.css.map": "/static/css/main.4fe5da4c.css.map",
+    "main.44ab952f.js.map": "/static/js/main.44ab952f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe5da4c.css",
+    "static/js/main.44ab952f.js"
+  ]
+}

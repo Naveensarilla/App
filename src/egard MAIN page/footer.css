@@ -1,0 +1,10 @@
+.footer-contant{
+    display: flex;
+   flex-wrap: wrap;
+   background: #000;
+   color: #fff;
+   justify-content: space-evenly;
+   
+   
+
+}
