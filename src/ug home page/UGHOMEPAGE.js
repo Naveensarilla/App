@@ -19,13 +19,10 @@ import { useState } from "react";
 
 class UGHOMEPAGE extends Component{
 
-   
-
     state = {clicked: false}
     hadleClick = () => {
         this.setState({clicked: !this.state.clicked})
     }
-
     
     render(){
         const IdErr =() =>{
