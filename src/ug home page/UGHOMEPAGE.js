@@ -27,20 +27,19 @@ class UGHOMEPAGE extends Component{
     render(){
         const IdErr =() =>{
             const arr=[
-              { home: '/',
+              {
+                home: '/',
                 about: '#about',
                 contact:'#contact'
-            }
+             }
             ]
         }
-
 
         // color theme hear---------------------------------
         // const setdarkMode = () => {
         //     document.querySelector('body').setAttribute('data-theme', 'dark')
         //     localStorage.setItem('selecterTheme', 'dark')
         // };
-        
         // const setdarkLight = () => {
         //     document.querySelector('body').setAttribute('data-theme', 'light')
         //     localStorage.setItem('selecterTheme', 'light')
@@ -53,9 +52,7 @@ class UGHOMEPAGE extends Component{
         // const toggleTheme = (e) => {
         //     if (e.target.checked) setdarkMode();
         //     else setdarkLight();
-        
         // };
-        
         // --------------------------------------------------
 
         return(
