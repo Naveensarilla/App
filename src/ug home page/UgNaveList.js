@@ -18,6 +18,7 @@ export const UgNaveList =[
         cNmae: 'nav-links',
         icon: 'fa-solid fa-briefcase'
     },
+    
     {
         title: 'Courses',
         url: '#courses',
