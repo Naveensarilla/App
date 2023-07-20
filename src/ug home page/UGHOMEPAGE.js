@@ -31,7 +31,6 @@ class UGHOMEPAGE extends Component{
                 about: '#about',
                 contact:'#contact'
             }
-
             ]
         }
 
